@@ -1,0 +1,11 @@
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\bin\Debug\FinguAuth.exe.config
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\bin\Debug\FinguAuth.exe
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\bin\Debug\FinguAuth.pdb
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.Properties.Resources.resources
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.exe
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.pdb
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.Login.resources
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.Register.resources
+C:\Users\Dylan\Desktop\Stuff\Projects\FinguAuth\FinguAuth\obj\Debug\FinguAuth.Main.resources
